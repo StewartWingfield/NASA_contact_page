@@ -1,12 +1,17 @@
 body{
-    border: 5px solid black
 
 
 }
+div {
+    background-color: #E6E6E6;
+    font-family: sans-serif;
+}
 
 .nasaPicture { 
-border: 5px solid red;
+    display: flex;
+    justify-content: center;
 margin-top: 50px;
+
 }
 .container {
     display: flex;
@@ -20,19 +25,7 @@ margin-top: 50px;
     justify-content: space-between;
     width: 30%;
     list-style: none;
-    padding: 50px;
   }
-  /* div {
-display: flex;
-justify-content: space-evenly;
-font-family: sans-serif;
-background-color: #E6E6E6;
-margin-bottom: 50px;
-padding: 25px;
-}
-p { display: flex;
-    flex-direction: column;
-} */
 /* div {
 display: flex;
 justify-content: space-evenly;
