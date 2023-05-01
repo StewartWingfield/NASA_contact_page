@@ -1,0 +1,46 @@
+body{
+    border: 5px solid black
+
+
+}
+
+.nasaPicture { 
+border: 5px solid red;
+margin-top: 50px;
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+  
+  .list {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 30%;
+    list-style: none;
+    padding: 50px;
+  }
+  /* div {
+display: flex;
+justify-content: space-evenly;
+font-family: sans-serif;
+background-color: #E6E6E6;
+margin-bottom: 50px;
+padding: 25px;
+}
+p { display: flex;
+    flex-direction: column;
+} */
+/* div {
+display: flex;
+justify-content: space-evenly;
+font-family: sans-serif;
+background-color: #E6E6E6;
+margin-bottom: 50px;
+padding: 25px;
+}
+p { display: flex;
+    flex-direction: column;
+} */
