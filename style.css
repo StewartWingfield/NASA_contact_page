@@ -1,7 +1,4 @@
-body{
 
-
-}
 div {
     background-color: #E6E6E6;
     font-family: sans-serif;
@@ -31,14 +28,8 @@ margin-top: 50px;
     list-style: none;
 
   }
-/* div {
-display: flex;
-justify-content: space-evenly;
-font-family: sans-serif;
-background-color: #E6E6E6;
-margin-bottom: 50px;
-padding: 25px;
-}
-p { display: flex;
-    flex-direction: column;
-} */
+ button {
+  color: white;
+  height: 20px;
+  width: 50px;
+ }
